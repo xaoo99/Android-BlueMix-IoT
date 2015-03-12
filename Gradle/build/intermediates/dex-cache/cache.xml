@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\student\Downloads\iot-starter-for-android-master1\app\libs\org.eclipse.paho.client.mqttv3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="da5fbfa8088506ea0f3a160adf4396cb3ed4cc8f">
+        <dex dex="C:\Users\student\Downloads\iot-starter-for-android-master1\app\build\intermediates\pre-dexed\debug\org.eclipse.paho.client.mqttv3-65c47be0722188618cfad66e42da3465b8ce6b2d.jar" />
+    </item>
+    <item
+        jar="C:\Users\student\Downloads\iot-starter-for-android-master1\app\libs\org.eclipse.paho.android.service.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="36289fb3b9bb223c35b69449e25a48aef2df756b">
+        <dex dex="C:\Users\student\Downloads\iot-starter-for-android-master1\app\build\intermediates\pre-dexed\debug\org.eclipse.paho.android.service-3d9a01203d479a24dca0c712118a0ae0e6433228.jar" />
+    </item>
+
+</items>
